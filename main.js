@@ -38,3 +38,12 @@ console.log(nuggetizer('pig'));
 console.log(nuggetizer('fish'));
 console.log(nuggetizer('chicken'));
 console.log(nuggetizer('beef'));
+
+
+const dogBreed =(dogType) => {
+    return `My favorite dog breed is ${dogType}` ;
+};
+
+
+console.log(dogBreed('pitbull'));
+console.log(dogBreed('boxer'));
