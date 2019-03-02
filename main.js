@@ -24,3 +24,17 @@ const namePrinter = (firstname, lastname) => {
 
 namePrinter('Calvin', 'Foster');
 namePrinter('Tobe', 'Nwigwe');
+
+
+
+
+
+
+const nuggetizer = (animal) => {
+    return `processed ${animal}` ;
+};
+
+console.log(nuggetizer('pig'));
+console.log(nuggetizer('fish'));
+console.log(nuggetizer('chicken'));
+console.log(nuggetizer('beef'));
