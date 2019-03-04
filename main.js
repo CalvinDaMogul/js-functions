@@ -78,3 +78,4 @@ const addBand = (bandName) => {
 
 addBand('Outkast');
 addBand('The Roots');
+addBand('Jimi Hendrix');
